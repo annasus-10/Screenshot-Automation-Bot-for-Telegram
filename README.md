@@ -42,8 +42,8 @@ Here’s the **step-by-step guide** to get this bot up and running on your machi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-screenshot-bot.git
-   cd telegram-screenshot-bot
+   git clone https://github.com/annasus-10/Screenshot-Automation-Bot-for-Telegram.git
+   cd Screenshot-Automation-Bot-for-Telegram
    ```
 
 2. Install dependencies:
@@ -52,9 +52,9 @@ Here’s the **step-by-step guide** to get this bot up and running on your machi
    ```
 
 3. Update the script:
-   - Open the `AutoFileBot.py` file.
-   - Replace the placeholder `BOT_TOKEN` with your bot's token.
-   - Replace `CHANNEL_USERNAME` with your Telegram channel or chat ID.
+   - Open the `AutoFileBot.py` file in your favorite text editor.
+   - Replace the placeholder `BOT_TOKEN` with your Telegram bot's token.
+   - Replace `CHANNEL_USERNAME` with your Telegram channel or chat ID where you want the screenshots sent.
 
 ---
 
